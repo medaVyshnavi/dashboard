@@ -1,1 +1,1 @@
-<template>hello index page</template>
+<template></template>
