@@ -30,7 +30,6 @@
         />
       </div>
     </div>
-    <button>Go</button>
   </div>
 </template>
 
